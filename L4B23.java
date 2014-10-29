@@ -6,6 +6,8 @@ public class L4B23 {
 
 	public static void main(String[] args) {
 
+		//comment...
+		
 		Tank[] tanks = new Tank[5];
 		tanks[0] = new Tank();
 		tanks[0].color = "yellow";
